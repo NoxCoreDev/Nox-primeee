@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nox-Primeee">
+  <a href="https://github.com/NoxCoreDev">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@NoxPrimeeeinc">
@@ -61,4 +61,4 @@ const nox = {
 <div align="center">
 
 <img src="profile/stats.svg" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=nox-primeee&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=NoxCoreDev&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
